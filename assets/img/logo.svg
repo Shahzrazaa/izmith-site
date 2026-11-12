@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none" role="img" aria-label="IZMITH">
+  <defs>
+    <linearGradient id="izmith-g" x1="4" y1="2" x2="28" y2="30" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F6D089"/>
+      <stop offset=".48" stop-color="#E8944A"/>
+      <stop offset="1" stop-color="#FF6B3B"/>
+    </linearGradient>
+  </defs>
+  <rect x=".6" y=".6" width="30.8" height="30.8" rx="8" fill="#0B0B0D" stroke="url(#izmith-g)" stroke-width="1.2"/>
+  <path d="M16.2 6.1 16.85 8.15 18.95 7.45 17.55 9.15 19.55 10.2 17.15 10.25 16.2 12.35 15.25 10.25 12.85 10.2 14.85 9.15 13.45 7.45 15.55 8.15Z" fill="url(#izmith-g)"/>
+  <rect x="14.25" y="11.2" width="3.5" height="14.2" rx="1.15" fill="url(#izmith-g)"/>
+</svg>
